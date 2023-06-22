@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.increDecrement{
+    width: 300px;
+    height: 150px;
+    text-align: center;
+    background-color: #9c9c9c;
+    color: white;
+    margin: 0 auto;
+    align-items: center;
+    border: 1px solid #ececec;
+    border-radius: 12px;
+    border-radius: 10px;
+    box-shadow: 0 1px 7px rgba(0, 0, 0, 0.25);
+}
+ h1{
+    color: #2d3236;
+ }
+
+button{
+    border: 1px solid #ececec;
+    background-color: #2d3236;
+    color: #fefae1;
+    border-radius: 12px;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 5px;
+    margin: 30px 10px;
+    border-radius: 10px;
+    box-shadow: 0 1px 7px rgba(0, 0, 0, 0.25);
+}
