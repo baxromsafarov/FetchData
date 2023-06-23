@@ -3,7 +3,7 @@ import "./IncreDecrement.css";
 
 const IncreDecrement = () =>{
     const [increDecrement, setIncreDecrement] = useState(0);
-
+    
     const incrementHandler = () =>{
         setIncreDecrement(increDecrement + 1);
     }

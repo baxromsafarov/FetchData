@@ -1,0 +1,14 @@
+.list{
+    background-color: rgb(156,156,156);
+    font-weight: 700;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+li{
+    list-style: none;
+}
+span{
+   color: rgb(71, 71, 71);
+}
